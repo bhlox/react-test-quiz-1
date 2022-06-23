@@ -170,7 +170,7 @@ function Choice({
       ? "challenge"
       : "";
 
-  // console.log(category);
+  console.log(category);
 
   if (!choice) {
     return (
