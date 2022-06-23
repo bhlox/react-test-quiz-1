@@ -54,9 +54,9 @@ function Menu({ showMenu }: { showMenu: boolean }) {
         showMenu ? "right-0" : "-right-full"
       } bg-green-600 min-h-screen transition-all duration-500 ease-in-out z-10 pt-20 flex flex-col items-center`}
     >
-      <a href="cock">cock 1</a>
-      <a href="cock">cock 1</a>
-      <a href="cock">cock 1</a>
+      <a href="/quiz">cock 1</a>
+      <a href="/quiz">cock 1</a>
+      <a href="/quiz">cock 1</a>
     </div>
   );
 }

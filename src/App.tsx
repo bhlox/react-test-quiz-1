@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <Layout>
-        <Router basename="/">
+        <Router basename="/kaiser-quiz-draft-8s4hjyby1-bhlox.vercel.app">
           <Routes>
             <Route path="/quiz" element={<Quiz />} />
             <Route path="/results" element={<Results />} />
